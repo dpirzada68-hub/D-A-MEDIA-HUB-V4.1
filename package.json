@@ -1,0 +1,21 @@
+{
+  "name": "damediahubv4",
+  "version": "1.0.0",
+  "description": "D&A Media Hub - Creative studio for video editing, graphics designing, motion graphics and brand identity",
+  "scripts": {
+    "dev": "npx http-server . -p 3000",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "media",
+    "video-editing",
+    "graphic-design",
+    "motion-graphics",
+    "brand-identity"
+  ],
+  "author": "D&A Media Hub",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
